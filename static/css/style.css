@@ -1,6 +1,8 @@
-body{
+.bg-dark{
     background-color: red;
 }
 .jumbotron {
     background-color: lightblue !important;
   }
+.p {color: rgb(30, 199, 100);
+}
